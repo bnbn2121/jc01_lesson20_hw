@@ -1,3 +1,3 @@
 # jc01_lesson20_hw
-## JavaStudy lesson 20
+## JavaStudy
 - Training course management task
