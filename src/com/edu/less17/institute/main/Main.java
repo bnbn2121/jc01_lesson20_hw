@@ -72,6 +72,7 @@ public class Main {
 		
 		System.out.println("Информация о курсе2:");
 		System.out.println(service.getCourseInfo(service.getCourseById(3)));
+		
 		System.out.println("Сортировка студентов по алфавиту:");
 		System.out.println(service.getStudentsByAlphabet(course2));
 				
